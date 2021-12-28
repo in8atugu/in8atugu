@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @in8atugu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning AI, Machine Learning
-- 💞️ I’m looking to collaborate on AI algorithum
+- 💞️ I’m looking to collaborate on AI algorithm
 - 📫 How to reach me in8atugu@lego.com
 
 <!---
