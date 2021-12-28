@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @in8atugu
+- 👋 Hi, I’m Atul Gupta @in8atugu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning AI, Machine Learning
 - 💞️ I’m looking to collaborate on AI algorithm
