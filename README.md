@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atul Gupta @in8atugu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning AI, Machine Learning
+- 🌱 I’m currently learning log Analytics, Machine Learning with Azure
 - 💞️ I’m looking to collaborate on AI algorithm
 - 📫 How to reach me in8atugu@lego.com
 
